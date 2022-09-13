@@ -1,1 +1,0 @@
-# mintic_clico3
