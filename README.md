@@ -10,5 +10,4 @@ Este es un proyecto desarrollado para el ciclo 3 de la mintic, el cual consiste 
 
 **Comandos necesarios** :
 - pip install --upgrade pip
-- pip install django
 - pip install django==4.1.1
